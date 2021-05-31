@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunnylego
+- 👋 Hi, I’m @sunninety1 
 - 👀 I’m interested in robotics especially mechanical systems.
 - 🌱 I’m currently learning about robotics.
 - 💞️ I’m looking to collaborate on : no idea yet
